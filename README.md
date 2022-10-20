@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true&theme=new_theme&include_all_commits=true&count_private=true"/>
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa&layout=compact&theme=nord"/>
  </div>
  
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa&layout=compact&theme=nord"/>
+</a>
  
  nord
  github_dark
- [add-theme]: https://github.com/luizgustavosfa/luizgustavosfa/blob/main/index.js
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-import default themes;
