@@ -34,4 +34,13 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  </div>
 
+##
+
+<div>
+  <a href="" targert="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" targert="_blank"><a/>
+  <a href="https://www.twitch.tv/luizgust1301" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-gustavo-1008a8195/" targert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targert="_blank"><a/>
+  <a href="mailto:lg2714561@gmail.com" targert="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="_blank"><a/>
+</div>
+##
     
