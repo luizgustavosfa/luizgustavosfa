@@ -1,19 +1,6 @@
 ### Hi there 👋
-
-<!--
-**luizgustavosfa/luizgustavosfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=MY+SOCIAL+NETWORKS)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -29,9 +16,10 @@ Here are some ideas to get you started:
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- </div>
- <br>
+</div>
+<br>
 
+<!-- inicio da seção de habilidades -->
 
 <h3 alig="left">Tools:</h3>
 
@@ -53,16 +41,18 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=14354C&labelColor=0D1117)&nbsp;
 <br>
 
+<!-- final da seção de habilidades -->
+
 ##
 
-<div>
+<div align="center">
+  <h3 align="center">My Social Networks</h3>
   <a href="" targert="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" targert="_blank"><a/>
   <a href="https://www.twitch.tv/luizgust1301" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-1008a8195/" targert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targert="_blank"><a/>
   <a href="mailto:lg2714561@gmail.com" targert="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="_blank"><a/>
   
-  ![Snake animation](https://github.com/luizgustavosfa/luizgustavosfa/blob/output/github-contribution-grid-snake.svg)
+##
+  
+![Snake animation](https://github.com/luizgustavosfa/luizgustavosfa/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
-    
