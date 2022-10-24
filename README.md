@@ -20,7 +20,10 @@ Here are some ideas to get you started:
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa&layout=compact&theme=nord"/>
 </div>
  
+ 
+ 
  <div style="display: inline-block" width="100%" align="center"><br>
+    <h2 align="center">Main Skill </h2> 
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -28,11 +31,27 @@ Here are some ideas to get you started:
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  </div>
  <br>
- <div style="display: inline-block;" width="100" align="center">
-    <img align="center" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" height="18" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- </div>
+
+
+<h3 alig="left">Tools:</h3>
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=0D1117)&nbsp;
+![NotePad](https://img.shields.io/badge/Notepad++-0D1117?style=for-the-badge&logo=notepad%2B%2B&logoColor=90E59A&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84&labelColor=0D1117)&nbsp;
+ <br>
+
+
+ <h4 alig="left">Others Knowledge:</h4>
+ 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=0D1117)&nbsp;
+
+
+<h4 alig="left">Studying in this moment:</h4>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=14354C&labelColor=0D1117)&nbsp;
+<br>
 
 ##
 
@@ -41,6 +60,9 @@ Here are some ideas to get you started:
   <a href="https://www.twitch.tv/luizgust1301" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-1008a8195/" targert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targert="_blank"><a/>
   <a href="mailto:lg2714561@gmail.com" targert="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="_blank"><a/>
+  
+  ![Snake animation](https://github.com/luizgustavosfa/luizgustavosfa/blob/output/github-contribution-grid-snake.svg)
 </div>
-##
+
+
     
