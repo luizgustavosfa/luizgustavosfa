@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=160&section=header&text=Welcome!&fontAlignY=30&fontAlign=85&fontSize=40&fontColor=E4E2E2"/>
-
-### Hi there 👋
+<img width=100% height=10% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=180&section=header&text=Welcome!&desc=My%20name%20is%20Luiz%20Gustavo%20and%20welcome%20to%20my%20github.&descSize=10&descAlign=18.5&descAlignY=48&fontAlignY=30&fontAlign=15&fontSize=40&fontColor=E4E2E2"/>
  
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=MY+SOCIAL+NETWORKS)](https://git.io/typing-svg) -->
 
