@@ -59,4 +59,9 @@
 ![Snake animation](https://github.com/luizgustavosfa/luizgustavosfa/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+ <div align="center">
+  <h5 align="center">My plataform</h5>
+  <a href="#" targert="_blank"><img height="20" widht="auto" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" targert="_blank"><a/>
+</div>
+   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=100&section=footer"/>
