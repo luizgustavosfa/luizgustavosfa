@@ -26,7 +26,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=0D1117)&nbsp;
 ![NotePad](https://img.shields.io/badge/Notepad++-0D1117?style=for-the-badge&logo=notepad%2B%2B&logoColor=90E59A&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84&labelColor=0D1117)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=0D1117)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&labelColor=0D1117)&nbsp;
  <br>
 
 
