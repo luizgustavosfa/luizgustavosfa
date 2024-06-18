@@ -33,7 +33,7 @@
  <h4 alig="left">Others Knowledge:</h4>
  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=0D1117)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=0D1117)&nbsp;
 
 
 <h4 alig="left">Studying in this moment:</h4>
