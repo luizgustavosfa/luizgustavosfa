@@ -5,13 +5,15 @@
 <div align="center">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa&layout=compact&theme=nord"/>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa)](https://github.com/luizgustavosfa/github-readme-stats)
 </div>
  
  
  
  <div style="display:inline-block" width="100%" align="center"><br>
     <h2 align="center">Skills: </h2>
-  <div width="100%">
+  <div style="display:inline-flex; gap:15" width="100%">
     <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
