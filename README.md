@@ -3,7 +3,9 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=MY+SOCIAL+NETWORKS)](https://git.io/typing-svg) -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa&layout=compact"/>
 </div>
  
  
