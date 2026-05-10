@@ -1,13 +1,13 @@
 <img width=100% height=10% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=180&section=header&text=Bem-vindo!&desc=Meu%20nome%20é%20Luiz%20Gustavo%20e%20bem-vindo%20ao%20meu%20github.&descSize=10&descAlign=18.5&descAlignY=48&fontAlignY=30&fontAlign=15&fontSize=40&fontColor=E4E2E2"/>
  
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=MY+SOCIAL+NETWORKS)](https://git.io/typing-svg) -->
-
+<!--
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true"/>
 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa&layout=compact"/>
 </div>
- 
+ -->
  
  
 
