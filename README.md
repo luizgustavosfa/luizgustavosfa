@@ -10,7 +10,7 @@
  
  
  <div style="display: inline-block" width="100%" align="center"><br>
-    <h2 align="center">Main Skill </h2> 
+    <h2 align="center">Skills: </h2> 
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -20,26 +20,32 @@
 
 <!-- inicio da seção de habilidades -->
 
-<h3 alig="left">Tools:</h3>
+<h3 alig="left">Ferramentas:</h3>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)&nbsp;
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=0D1117)&nbsp;
-![NotePad](https://img.shields.io/badge/Notepad++-0D1117?style=for-the-badge&logo=notepad%2B%2B&logoColor=90E59A&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84&labelColor=0D1117)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&labelColor=0D1117&logoColor=CF222E)&nbsp;
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)&nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)&nbsp;
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)&nbsp;
+ <br>
+
+<h3 alig="left">Frameworks:</h3>
+
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)&nbsp;
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)&nbsp;
  <br>
 
 
- <h4 alig="left">Others Knowledge:</h4>
- 
+ <h4 alig="left">Outros conhecimentos:</h4>
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=0D1117)&nbsp;
 
 
-<h4 alig="left">Studying in this moment:</h4>
+<h4 alig="left">Estudando no momento:</h4>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=14354C&labelColor=0D1117)&nbsp;
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)&nbsp;
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)&nbsp;
 <br>
 
 <!-- final da seção de habilidades -->
@@ -47,11 +53,9 @@
 ##
 
 <div align="center">
-  <h3 align="center">My Social Networks</h3>
-  <a href="" targert="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" targert="_blank"><a/>
-  <a href="https://www.twitch.tv/luizgust1301" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <h3 align="center">Minhas redes sociais:</h3>
   <a href="https://www.linkedin.com/in/luiz-gustavo-1008a8195/" targert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targert="_blank"><a/>
-  <a href="mailto:lg2714561@gmail.com" targert="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="_blank"><a/>
+  <a href="mailto:luizgustavosilva.fa@gmail.com" targert="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="_blank"><a/>
   
 ##
   
