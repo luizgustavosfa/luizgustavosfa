@@ -23,6 +23,7 @@
 <h3 alig="left">Tools:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=0D1117)&nbsp;
 ![NotePad](https://img.shields.io/badge/Notepad++-0D1117?style=for-the-badge&logo=notepad%2B%2B&logoColor=90E59A&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84&labelColor=0D1117)&nbsp;
