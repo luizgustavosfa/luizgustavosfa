@@ -11,10 +11,10 @@
  
  <div style="display: inline-block" width="100%" align="center"><br>
     <h2 align="center">Skills: </h2> 
-    <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
+    <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;
+    <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;
+    <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>&nbsp;
 </div>
 <br>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
   <h3 align="center">Minhas redes sociais:</h3>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-1008a8195/" targert="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" targert="_blank"><a/>
+  <a href="https://www.linkedin.com/in/luiz-gustavo-1008a8195/" targert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targert="_blank"><a/>
   <a href="mailto:luizgustavosilva.fa@gmail.com" targert="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="_blank"><a/>
   
 ##
@@ -63,8 +63,8 @@
 </div>
 
  <div align="center">
-  <h5 align="center">My plataform</h5>
-  <a href="#" targert="_blank"><img height="20" widht="auto" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" targert="_blank"><a/>
+  <h5 align="center">Minha plataforma</h5>
+  <a href="#" targert="_blank"><img height="20" widht="auto" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" targert="_blank"><a/>
 </div>
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=100&section=footer"/>
