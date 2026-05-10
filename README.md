@@ -22,7 +22,7 @@
 
 <h3 alig="left">Ferramentas:</h3>
 
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)&nbsp;
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)&nbsp;
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)&nbsp;
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)&nbsp;
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)&nbsp;
@@ -37,9 +37,9 @@
 
 
  <h4 alig="left">Outros conhecimentos:</h4>
+ 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=0D1117)&nbsp;
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)&nbsp;
 
 
 <h4 alig="left">Estudando no momento:</h4>
@@ -54,7 +54,7 @@
 
 <div align="center">
   <h3 align="center">Minhas redes sociais:</h3>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-1008a8195/" targert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targert="_blank"><a/>
+  <a href="https://www.linkedin.com/in/luiz-gustavo-1008a8195/" targert="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" targert="_blank"><a/>
   <a href="mailto:luizgustavosilva.fa@gmail.com" targert="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="_blank"><a/>
   
 ##
