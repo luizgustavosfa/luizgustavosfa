@@ -3,11 +3,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=MY+SOCIAL+NETWORKS)](https://git.io/typing-svg) -->
 
 <div align="center">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa&layout=compact&theme=nord"/>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizgustavosfa&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosfa&layout=compact&theme=nord)
+  <img src="https://github-readme-stats.vercel.app/api?username=luizgustavosfa"/>
 </div>
  
  
